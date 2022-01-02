@@ -1,6 +1,5 @@
 pipeline {
   agent any
-//afcac
   environment {
     deploymentName = "devsecops"
     containerName = "devsecops-container"
